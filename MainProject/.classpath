@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ambes/Desktop/SE/externalJars/auxEbazaar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ambes/Desktop/SE/externalJars/creditVerifSystem.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ambes/Desktop/SE/externalJars/jess.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ambes/Desktop/SE/externalJars/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ambes/Desktop/SE/externalJars/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ambes/Desktop/SE/externalJars/rulesencoding.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ambes/Desktop/SE/externalJars/rulesengine.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
